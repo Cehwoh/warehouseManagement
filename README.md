@@ -1,0 +1,2 @@
+# warehouseManagement
+此为简单实现了仓库货物的拿进拿出，增删改查的仓储管理系统
